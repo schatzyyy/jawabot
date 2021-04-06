@@ -51,8 +51,8 @@ Jika pertama kali membuka termux lakukan perintah berikut :
 ```
 Lalu clone repo
 ```bash
-> git clone https://github.com/AgusAliansyah/vvipbot-wa
-> cd vvipbot-wa
+> git clone https://github.com/schatzyyy/jawabot
+> cd jawabot
 ```
 Lanjutkan dengan
 ```bash
