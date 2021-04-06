@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AgusAliansyah/vvipbot-wa"
+    "url": "git+https://github.com/schatzyyy/jawabot"
   },
   "keywords": [
     "K"
@@ -42,7 +42,7 @@
   "author": "Agusbot",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AgusAliansyah/vvipbot-wa/issues"
+    "url": "https://github.com/schatzyyy/jawabot/issues"
   },
-  "homepage": "https://github.com/AgusAliansyah/vvipbot-wa#readme"
+  "homepage": "https://github.com/schatzyyy/jawabot#readme"
 }
